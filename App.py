@@ -19,7 +19,7 @@ import streamlit as st
 
 st.title("HEALTH INSURANCE PREDICTION")
 
-img_url = "https://healthinsuranceblob.abhicl.in/marketingcontent/assets/img/health-guide-images/scheme.jpg"
+img_url = "https://navi.com/blog/wp-content/uploads/2021/12/best-health-insurance-plans.jpg"
 
 st.image(img_url)
 
